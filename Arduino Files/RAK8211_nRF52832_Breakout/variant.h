@@ -103,6 +103,13 @@ static const uint8_t SCK  = PIN_SPI_SCK ;
 #define WIRE_INTERFACES_COUNT 1
 
 /**
+ There is a hardware changes request initiated for getting al I2C sensors
+ ona singlee I2C line to ensure developers get more GPIO on the itracker board to add Their
+ own peripherals and also avoid the use of Wire1, Wire2, WireX based nomeclature for using the various
+ sensors together simultaneously.
+ */
+
+/**
  * TWI for LIS2MDL
 */
 #define PIN_WIRE_SDA         (13u)
