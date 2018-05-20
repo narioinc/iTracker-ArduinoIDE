@@ -17,6 +17,8 @@ The examples mentioned require the followin libraries
 * Adafruit Sensor lib : https://github.com/adafruit/Adafruit_Sensor
 * Adafruit LIS3DH lib : https://github.com/adafruit/Adafruit_LIS3DH
 * Sparkfun LIS3DH lib: https://github.com/sparkfun/SparkFun_LIS3DH_Arduino_Library
+* LIS2MDL Lib: https://github.com/kriswiner/LSM6DSM_LIS2MDL_LPS22HB
+* OPT3001 sensor lib: https://github.com/closedcube/ClosedCube_OPT3001_Arduino
 
 
 Things to note for GPS example:
