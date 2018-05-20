@@ -1,7 +1,7 @@
-RAK Wireless RAK8211 nRF52832 Breakout
+RAK Wireless RAK8211 iTracker Boards
 ========================================
 
-[[RAK Wireless RAK8211 nRF52832 Breakout]](https://www.aliexpress.com/item/RAK8211-Hybrid-Location-Tracker-LoRa-Bluetooth-5-0-Beacon-GPS-Sensors-LCD-LoRaWAN-1-0-2/32849717052.html)
+[[RAK Wireless RAK8211 iTracker Boards]](https://www.aliexpress.com/item/RAK8211-Hybrid-Location-Tracker-LoRa-Bluetooth-5-0-Beacon-GPS-Sensors-LCD-LoRaWAN-1-0-2/32849717052.html)
 
 The nRF52832 is [Nordic Semiconductor's](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF52832) latest multiprotocol radio system-on-chip (SoC). It's half microcontroller, with a list of features including 32 configurable I/O pins, SPI, I<sup>2</sup>C, UART, PWM, ADC's, 512kB flash, and 64kB RAM. And, it's half 2.4GHz multiprotocol radio, supporting **Bluetooth low energy** (BLE), **ANT**, and Nordic's proprietary 2.4GHz ultra low-power wireless communication -- it even features on-chip NFC tag support.
 
