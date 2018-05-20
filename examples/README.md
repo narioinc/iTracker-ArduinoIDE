@@ -19,6 +19,7 @@ The examples mentioned require the followin libraries
 * Sparkfun LIS3DH lib: https://github.com/sparkfun/SparkFun_LIS3DH_Arduino_Library
 * LIS2MDL Lib: https://github.com/kriswiner/LSM6DSM_LIS2MDL_LPS22HB
 * OPT3001 sensor lib: https://github.com/closedcube/ClosedCube_OPT3001_Arduino
+* BME280 lib: https://github.com/adafruit/Adafruit_BME280_Library
 
 
 Things to note for GPS example:
