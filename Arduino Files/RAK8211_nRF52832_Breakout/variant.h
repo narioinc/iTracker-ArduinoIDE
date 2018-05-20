@@ -88,9 +88,9 @@ static const uint8_t AREF = PIN_AREF;
  */
 #define SPI_INTERFACES_COUNT 1
 
-#define PIN_SPI_MISO         (18)
-#define PIN_SPI_MOSI         (19)
-#define PIN_SPI_SCK          (20)
+#define PIN_SPI_MISO         (5)
+#define PIN_SPI_MOSI         (3)
+#define PIN_SPI_SCK          (4)
 
 static const uint8_t SS   = 17 ;
 static const uint8_t MOSI = PIN_SPI_MOSI ;
@@ -102,8 +102,27 @@ static const uint8_t SCK  = PIN_SPI_SCK ;
  */
 #define WIRE_INTERFACES_COUNT 1
 
-#define PIN_WIRE_SDA         (15u)
-#define PIN_WIRE_SCL         (16u)
+/**
+ * TWI for LIS2MDL
+*/
+#define PIN_WIRE_SDA         (13u)
+#define PIN_WIRE_SCL         (11u)
+
+/**
+ * TWI for LIS3DH
+ *
+ * #define PIN_WIRE_SDA         (19u)
+ * #define PIN_WIRE_SCL         (18u)
+*/
+
+
+/**
+ * TWI for OPT3001
+ *
+ * #define PIN_WIRE_SDA         (26u)
+ * #define PIN_WIRE_SCL         (23u)
+*/
+
 
 #ifdef __cplusplus
 }
